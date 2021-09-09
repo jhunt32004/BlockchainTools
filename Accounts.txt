@@ -1,0 +1,16 @@
+network name:jonathanactivity 
+Chaid Id: 999
+
+node1: 
+0x5Ff46D2c7a111Fce679E4651dE695F0644465338
+node1\keystore\UTC--2021-08-31T23-59-51.727722900Z--5ff46d2c7a111fce679e4651de695f0644465338
+password: 123
+
+node:2
+0x15f1E45344Ed9273E57E1E43Fac6a06FD436Ed82
+node2\keystore\UTC--2021-09-01T00-03-43.866585800Z--15f1e45344ed9273e57e1e43fac6a06fd436ed82
+password: 123
+enode://7ea45d912146b8687d778b68076d0d4057a923afce493a71fc6adbbc0b32197cb10c1a7560cd9177ab4bb79c037be3d5f8995df68020d8eb9e11d3b3cc5d6f2e@127.0.0.1:30303
+
+Wallet Private Key:
+0x284aa7b9feb3b1a5b0496f2a8c6bbb5a58e084dfe2ba1acb2a9ab7bd02590b0a                              
