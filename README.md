@@ -27,7 +27,7 @@ The Proof of Authority (PoA) algorithm is typically used for private blockchain 
 3. With the genesis block creation completed, we will now initialize the nodes with the genesis' json file.
 
     * Using `geth`, initialize each node with the new `networkname.json`.
-        * ./geth --datadir node1 init networkname.json
+        * ./geth --datadir node1 init networkname.json (in my case "jonathanactivity.json")
         * ./geth --datadir node2 init networkname.json
 
 4. Now the nodes can be used to begin mining blocks.
